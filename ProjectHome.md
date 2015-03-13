@@ -1,0 +1,1 @@
+A python extenstion for rc4. This was not tested so much and you're using it at your own RISK. I open source it just in the hope that it might be useful to someone. Thanks
